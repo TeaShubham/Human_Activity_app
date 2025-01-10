@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "883865134621",
+    "project_id": "harclassifier",
+    "storage_bucket": "harclassifier.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883865134621:android:ceb1231cd733c2170ac8f4",
+        "android_client_info": {
+          "package_name": "panh.har.proj"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-N41EgQe4enfT6JN2GQEJXu_nO8RQk7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
